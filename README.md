@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCcjx&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCcjx&theme=radical)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TCcjx&left_color=green&right_color=red)
+
 
 
