@@ -1,4 +1,4 @@
-## Hi there 👋 I am a Master Candidata for CS, welcome to contact with me.
+## Hi there 👋 I am a Master Candidate for CS, welcome to contact with me.
 <!--
 **TCcjx/TCcjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
