@@ -1,5 +1,13 @@
-<center>Hi there 👋 I am pursuing a Master's degree in Computer Science, welcome to contact with me.</center>
-<center>My research focuses on Temporal knowledge graph and LLMs.</center>
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/jingyaogong/count.svg)
+
+
+I am pursuing a Master's degree in Computer Science.
+
+My research focuses on Temporal Knowledge graph, Generative models (including NLP, CV, MultiModal).
+
+✨ **focus on yourself.** ✨
 <!--
 **TCcjx/TCcjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
