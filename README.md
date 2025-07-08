@@ -1,6 +1,6 @@
 <div align="center">
+！[Visitor Count](https://profile-counter.glitch.me/TCcjx/count.svg)
   
-
 I am pursuing a Master's degree in Computer Science.
 
 My research focuses on Temporal Knowledge graph, LLMs.
