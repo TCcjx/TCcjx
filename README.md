@@ -1,5 +1,5 @@
 <div align="center">
-！[Visitor Count](https://profile-counter.glitch.me/TCcjx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tccjx/count.svg)
   
 I am pursuing a Master's degree in Computer Science.
 
