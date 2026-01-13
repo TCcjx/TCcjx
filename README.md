@@ -5,7 +5,7 @@ I am pursuing a Master's degree in Computer Science.
 
 My research focuses on Temporal Knowledge graph, LLMs.
 
-✨ **focus on yourself.** ✨
+✨人的内心在年轻的时候还是要干净纯粹一些。✨
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tccjx/tccjx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tccjx/tccjx/output/github-contribution-grid-snake.svg">
