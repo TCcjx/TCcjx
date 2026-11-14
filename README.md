@@ -9,9 +9,11 @@
 ![Degree](https://img.shields.io/badge/%F0%9F%8E%93-M.S._in_Computer_Science-4A90D9?style=flat-square)
 ![School](https://img.shields.io/badge/%F0%9F%8F%AB-Northeastern_University_%28China%29-555555?style=flat-square)
 
-<!-- 研究方向 -->
-![TemporalKG](https://img.shields.io/badge/%F0%9F%94%AC-Temporal_KG_%C3%97_LLM-8A2BE2?style=flat-square)
-![AIInfra](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-AI_Infra-6E40C9?style=flat-square)
+<!-- 研究方向：同一紫色系，由深到浅对应 领域 → 交叉 → 应用 → 系统 -->
+![TemporalKG](https://img.shields.io/badge/%F0%9F%94%AC-Temporal_KG-8A2BE2?style=flat-square)
+![LLMKG](https://img.shields.io/badge/%F0%9F%A7%A0-LLM_%C3%97_KG-6E40C9?style=flat-square)
+![LLMApps](https://img.shields.io/badge/%F0%9F%A4%96-LLM_Applications-A371F7?style=flat-square)
+![AIInfra](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-AI_Infra-4C2889?style=flat-square)
 ![Focus](https://img.shields.io/badge/%F0%9F%93%9A-Reading_%26_Thinking-2EA043?style=flat-square)
 
 <br/>
@@ -27,9 +29,9 @@
 ## 🔬 Research Interests
 
 - **Temporal Knowledge Graph** — temporal reasoning, TKGC, event forecasting
-- **LLM × KG** — knowledge-grounded reasoning, retrieval over structured knowledge
+- **LLM × KG** — knowledge-grounded reasoning, structured retrieval, verifiable reasoning
+- **LLM Applications** — RAG pipelines, agentic workflows, instruction tuning (SFT / LoRA), evaluation
 - **AI Infra** — efficient training & inference, distributed systems
-
 <!-- News 暂时留空：有进展后取消下面的注释即可
 ## 📰 News
 
