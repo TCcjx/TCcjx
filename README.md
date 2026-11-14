@@ -39,12 +39,6 @@
 
 <div align="center">
 
-<!-- GitHub 数据卡 -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tccjx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tccjx&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tccjx/tccjx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tccjx/tccjx/output/github-contribution-grid-snake.svg">
