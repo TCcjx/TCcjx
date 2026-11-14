@@ -8,7 +8,6 @@
 <!-- 身份 -->
 ![Degree](https://img.shields.io/badge/%F0%9F%8E%93-M.S._in_Computer_Science-4A90D9?style=flat-square)
 ![School](https://img.shields.io/badge/%F0%9F%8F%AB-Northeastern_University_%28China%29-555555?style=flat-square)
-![Location](https://img.shields.io/badge/%F0%9F%93%8D-Shenyang%2C_China-555555?style=flat-square)
 
 <!-- 研究方向 -->
 ![TemporalKG](https://img.shields.io/badge/%F0%9F%94%AC-Temporal_KG_%C3%97_LLM-8A2BE2?style=flat-square)
